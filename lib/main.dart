@@ -11,7 +11,7 @@ void main(){
 }
 
 
-final String narith = "Narith";
+final String narith = "";
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
